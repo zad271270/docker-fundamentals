@@ -1,0 +1,31 @@
+repo_name: zad271270/docker-fundamentals
+report_id: 76861c10ffc59c23c123bdbe1eb15688
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-14T14:27:56+00:00'
+requested_by: stacksimplify
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/zad271270/docker-fundamentals
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zad271270/docker-fundamentals
+  detection_source: Repo Metadata
